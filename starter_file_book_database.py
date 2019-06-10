@@ -28,7 +28,7 @@ while choice.lower() != "x":
 
     if choice == "1":
         #Code to add a record
-        
+            
     elif choice == "2":
         #Display the data
         
