@@ -8,7 +8,7 @@ To start with, we should look at some key terminology for databases, so that we 
  
 Databases are organised collections of **data**, this allows them to be displayed, maintained and searched easily. Our database will have 1 **table**, effectively just like a spreadsheet table. The headings on each of the columns are the **fields**, the individual pieces of data we want to store about the books in our collection. The information about a single book are called its **attributes** and are stored toegther in one **record**, which would be a single row in our database table. To make it easier to search and sort our database, we should also select a **primary key**, one field that will be unique for each book. Sometimes one of the fields we are already storing works for this purpose, if not then the database will create an ID number that it uses to uniquely identify each record.
 
-## Make our first record. 
+## Design our first record. 
 
 Pull the class back together, ask a few groups about the data they selected to track. Make sure they have chosen appropriate data types. Ask some if they can find any of the fields that would be a primary key, the answer will most likely be no. The ISBN could work, but for our simple application having to type in a 10 or 13 digit number just to use for an ID would be overkill. In our database we are going to generate our own IDs. 
 
