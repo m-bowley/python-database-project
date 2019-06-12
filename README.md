@@ -94,4 +94,4 @@ Once the search is complete, if there are any results the fields are printed as 
 
 ## Wrap Up
 
-This piece of code can be used in your classroom in any way that fits your students. You may want to use PRIMM and give them the entire code. The can investigate and modify it to their own purpose. You can also lead them through it, having them follow you as you demonstrate how an expert constructs a piece of software. I have done both to great effect, let me know how your classes get on.  
+This piece of code can be used in your classroom in any way that fits your students. You may want to use PRIMM and give them the [entire code](https://github.com/m-bowley/python-database-project/blob/master/full_project_book_database.py). They can investigate and modify it to their own purpose. You can also lead them through it, having them follow you as you demonstrate how an expert constructs a piece of software. I have done both to great effect, let me know how your classes get on.  
